@@ -8,6 +8,7 @@
 ## Security 
 * https://github.com/cablelabs/safe
 * https://github.com/cablelabs/spoke
+* https://github.com/cablelabs/desafe
 * https://glite.web.cern.ch/glite/introduction
 
 ## Grid computing
