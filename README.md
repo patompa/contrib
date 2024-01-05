@@ -13,6 +13,6 @@
 * https://www.globus.org/
 * https://sgas.github.io/about/
 
-## Apache distributed computing
+## Distributed computing
 * https://hadoop.apache.org/
 * https://axis.apache.org/
