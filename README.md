@@ -1,2 +1,18 @@
-# contrib
-External repository contributions
+# External repository contributions
+
+## Mobile Networks
+* https://github.com/cablelabs/bandcoin
+* https://github.com/cablelabs/mass
+
+## Security 
+* https://github.com/cablelabs/safe
+* https://github.com/cablelabs/spoke
+* https://glite.web.cern.ch/glite/introduction
+
+## Grid computing
+* https://www.globus.org/
+* https://sgas.github.io/about/
+
+## Apache distributed computing
+* https://hadoop.apache.org/
+* https://axis.apache.org/
